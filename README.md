@@ -2,7 +2,7 @@
 
 Notes:
 
-The dist folder contains the lateest build in the oracleimc/
+The dist folder contains the latest build in the oracleimc/CAT
 
 Description:
 This code is witten in Angular 8 basically to create a form that accepts replicated inputs from the Solution portal and converts to the value fo JSON Format.
